@@ -2,7 +2,7 @@
     let ergebnis; let anzahlNoten = 0;
     let summe = 0;
 
-    // variablen erstellt
+    // variablen erstellt see ya
 
     function tfAuslesen() {
         n1 = parseInt(document.getElementById("tfNote1").value);  //Auslesen Notenfeld 1 und Umwandeln in Zahl
